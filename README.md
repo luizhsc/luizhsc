@@ -6,10 +6,10 @@ Apart from having the super-power of sitting on a desk and code for more than 24
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Angular, Laravel Framework PHP**
-- Backend development using **Java, Node, Spring Boot Framework, .Net, VB**
+- Front-end development using **Angular, Laravel Framework PHP, VUE.js**
+- Backend development using **Java, Spring Boot Framework, .Net, VB**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **Cassandra / DataStax**
-- Mobile application development using **Android (Java), Xamarin Android / Xamarin iOS, Ionic**
+- Mobile application development using **Android (Java), Ionic, Flutter**
 - Creating scalable cloud architecture using **Amazon Web Services**
 
 ## 📫 Contact Me
