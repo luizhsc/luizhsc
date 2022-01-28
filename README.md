@@ -1,5 +1,5 @@
 # Luiz Cunha 😃
-I'm Luiz Cunha, System Analyst enthusiast at 👨‍💻 everis Brazil.
+I'm Luiz Cunha, software engineer at 👨‍💻 TQI.
 
 ## 🧐 About
 Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, I am working on democratizing technical education and shape the next generation of engineers and developers.
